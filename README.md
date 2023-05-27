@@ -2,13 +2,14 @@
 
 | Games | Status | Developer |
 | --- | --- | --- |
-| Deltazone | In Development | EvolvedPhoenix Studios |
-| Stranded | on Hold | EvolvedPhoenix Studios |
-| Curdles Revenge | Done | EvolvedPhoenix Studios |
-| Little Goblin | Done | EvolvedPhoenix Studios |
-| Weightless | Done | EvolvedPhoenix Studios |
-| Planet Defense 1 | Done | EvolvedPhoenix Studios |
-| Planet Defense 2 | Done | EvolvedPhoenix Studios |
+| [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | In Development | EvolvedPhoenix Studios |
+| [Stranded](https://evolvedphoenix-studios.itch.io/stranded-game) | on Hold | EvolvedPhoenix Studios |
+| [Curdles Revenge](https://evolvedphoenix-studios.itch.io/cr) | Done | EvolvedPhoenix Studios |
+| [Little Goblin](https://evolvedphoenix-studios.itch.io/little-goblins) | Done | EvolvedPhoenix Studios |
+| [Weightless](https://evolvedphoenix-studios.itch.io/weightless) | Done | EvolvedPhoenix Studios |
+| [Planet Defense 1](https://evolvedphoenix-studios.itch.io/planetdefense) | Done | EvolvedPhoenix Studios |
+| [Planet Defense 2](https://evolvedphoenix-studios.itch.io/planetdefense2) | Done | EvolvedPhoenix Studios |
+| [Killer Frog](https://evolvedphoenix-studios.itch.io/killer-frog) | Done | EvolvedPhoenix Studios |
 <!--
 **EvolvedPhoenixOfficial/EvolvedPhoenixOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
