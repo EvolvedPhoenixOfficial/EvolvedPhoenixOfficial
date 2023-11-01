@@ -3,7 +3,7 @@
 | Games | Status | Developer |
 | --- | --- | --- |
 | [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | Canceled | EvolvedPhoenix Studios |
-| [Adrift]([https://evolvedphoenix-studios.itch.io/stranded-game](https://evolvedphoenix-studios.itch.io/adrift-votl)) | In Development | EvolvedPhoenix Studios |
+| [Adrift]((https://evolvedphoenix-studios.itch.io/adrift-votl)) | In Development | EvolvedPhoenix Studios |
 | [Curdles Revenge](https://evolvedphoenix-studios.itch.io/cr) | Done | EvolvedPhoenix Studios |
 | [Little Goblin](https://evolvedphoenix-studios.itch.io/little-goblins) | Done | EvolvedPhoenix Studios |
 | [Weightless](https://evolvedphoenix-studios.itch.io/weightless) | Done | EvolvedPhoenix Studios |
