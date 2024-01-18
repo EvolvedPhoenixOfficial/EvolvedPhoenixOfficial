@@ -2,6 +2,7 @@
 
 | Games | Status | Developer |
 | --- | --- | --- |
+| [Labyrinth: Shadows of the Kingdom](https://store.steampowered.com/app/2495490/Labyrinth_Shadows_of_the_Kingdom/) | In Active Development | EvolvedPhoenix Studios |
 | [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | Canceled | EvolvedPhoenix Studios |
 | [Adrift](https://evolvedphoenix-studios.itch.io/adrift-votl) | In Development | EvolvedPhoenix Studios |
 | [Curdles Revenge](https://evolvedphoenix-studios.itch.io/cr) | Done | EvolvedPhoenix Studios |
