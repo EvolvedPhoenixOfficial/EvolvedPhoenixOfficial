@@ -4,7 +4,7 @@
 
 | Game | Status | Developer |
 | --- | --- | --- |
-| [REDACTED] | In Active Development | EvolvedPhoenix Studios/NOT-So Classic Games |
+| [REDACTED] | In Active Development | EvolvedPhoenix Studios/Not-So Classic Games |
 | [Labyrinth: Shadows of the Kingdom](https://store.steampowered.com/app/2495490/Labyrinth_Shadows_of_the_Kingdom/) | On Hold | EvolvedPhoenix Studios |
 | [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | On Hold | EvolvedPhoenix Studios |
 | [Adrift](https://evolvedphoenix-studios.itch.io/adrift-votl) | In the void Somewhere? | EvolvedPhoenix Studios |
