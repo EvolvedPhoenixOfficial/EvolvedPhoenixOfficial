@@ -15,11 +15,8 @@
 | [Planet Defense 2](https://evolvedphoenix-studios.itch.io/planetdefense2) | Done | Extynct Studios |
 | [Killer Frog](https://evolvedphoenix-studios.itch.io/killer-frog) | Done | Extynct Studios |
 
----
-
-This highlights your ongoing and completed projects under EvolvedPhoenix Studios. Would you like to add more details or modify anything else?
 <!--
-**EvolvedPhoenixOfficial/EvolvedPhoenixOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**EvolvedPhoenixOfficial/ExtynctStudios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
