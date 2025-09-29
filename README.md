@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-### Games Developed by EvolvedPhoenix Studios
+### Games Developed by Extynct Studios
 
 | Game | Status | Developer |
 | --- | --- | --- |
-| [REDACTED] | In Active Development | EvolvedPhoenix Studios/Not-So Classic Games |
-| [Labyrinth: Shadows of the Kingdom](https://store.steampowered.com/app/2495490/Labyrinth_Shadows_of_the_Kingdom/) | Canceled | EvolvedPhoenix Studios |
-| [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | On Hold | EvolvedPhoenix Studios |
-| [Adrift](https://evolvedphoenix-studios.itch.io/adrift-votl) | In the void Somewhere? | EvolvedPhoenix Studios |
-| [Curdles Revenge](https://evolvedphoenix-studios.itch.io/cr) | Done | EvolvedPhoenix Studios |
-| [Little Goblin](https://evolvedphoenix-studios.itch.io/little-goblins) | Done | EvolvedPhoenix Studios |
-| [Weightless](https://evolvedphoenix-studios.itch.io/weightless) | Done | EvolvedPhoenix Studios |
-| [Planet Defense 1](https://evolvedphoenix-studios.itch.io/planetdefense) | Done | EvolvedPhoenix Studios |
-| [Planet Defense 2](https://evolvedphoenix-studios.itch.io/planetdefense2) | Done | EvolvedPhoenix Studios |
-| [Killer Frog](https://evolvedphoenix-studios.itch.io/killer-frog) | Done | EvolvedPhoenix Studios |
+| [REDACTED] | In Active Development | Extynct Studios |
+| [Labyrinth: Shadows of the Kingdom](https://store.steampowered.com/app/2495490/Labyrinth_Shadows_of_the_Kingdom/) | Canceled | Extynct Studios |
+| [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | Early Access | Extynct Studios |
+| [Adrift](https://evolvedphoenix-studios.itch.io/adrift-votl) | Canceled | Extynct Studios |
+| [Curdles Revenge](https://evolvedphoenix-studios.itch.io/cr) | Done | Extynct Studios |
+| [Little Goblin](https://evolvedphoenix-studios.itch.io/little-goblins) | Done | Extynct Studios |
+| [Weightless](https://evolvedphoenix-studios.itch.io/weightless) | Done | Extynct Studios |
+| [Planet Defense 1](https://evolvedphoenix-studios.itch.io/planetdefense) | Done | Extynct Studios |
+| [Planet Defense 2](https://evolvedphoenix-studios.itch.io/planetdefense2) | Done | Extynct Studios |
+| [Killer Frog](https://evolvedphoenix-studios.itch.io/killer-frog) | Done | Extynct Studios |
 
 ---
 
