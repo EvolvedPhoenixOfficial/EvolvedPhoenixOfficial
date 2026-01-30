@@ -4,7 +4,7 @@
 
 | Game | Status | Developer |
 | --- | --- | --- |
-| [REDACTED] | In Active Development | Extynct Studios |
+| [Gearbound: Odyssey](https://store.steampowered.com/app/3612790/Gearbound_Odyssey/) | In Active Development | Extynct Studios |
 | [Labyrinth: Shadows of the Kingdom](https://store.steampowered.com/app/2495490/Labyrinth_Shadows_of_the_Kingdom/) | Canceled | Extynct Studios |
 | [Deltazone](https://store.steampowered.com/app/2127310/Deltazone/) | Early Access | Extynct Studios |
 | [Adrift](https://evolvedphoenix-studios.itch.io/adrift-votl) | Canceled | Extynct Studios |
