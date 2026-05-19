@@ -2,6 +2,8 @@
 
 ### Games Developed by Extynct Studios
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F5X61ZU33I)
+
 | Game | Status | Developer |
 | --- | --- | --- |
 | [Unnamed Project]() | Prototype | Extynct Studios |
